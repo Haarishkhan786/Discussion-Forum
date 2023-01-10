@@ -1,0 +1,45 @@
+
+.chart-container {
+	display: flex;
+	flex-direction: row;
+	width:  80%;
+	height: 500px;
+
+	align-items: center;
+	justify-content: center;
+	margin: 0 auto;
+}
+
+.pie-chart-container {
+	width : 360px;
+	
+	height : 500px;
+	
+}
+
+.aw{
+	width: 20vw;
+}
+
+
+.pie1{
+	margin-top: 4vh;
+	padding-left: 3vh;
+	justify-content: center;
+	width: 390px;
+	height:500px;
+	background-color: aliceblue;
+}
+
+.pie2{
+	margin-top: 4vh;
+	align-items: center;
+	justify-content: center;
+	width: 390px;
+	height:500px;
+	background-color: aliceblue;
+}
+
+
+
+
